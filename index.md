@@ -3,7 +3,7 @@
 <head>
   <!-- Site made with Mobirise Website Builder v4.12.3, https://mobirise.com -->
   <meta charset="UTF-8">
-  <!--meta http-equiv="X-UA-Compatible" content="IE=edge"-->
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v4.12.3, mobirise.com">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <link rel="shortcut icon" href="assets/images/clipboard-image-fba822bc-186x186.jpg" type="image/x-icon">
